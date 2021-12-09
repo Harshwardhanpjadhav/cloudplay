@@ -7,6 +7,7 @@ body{
     margin: 0 ;
     display: block;
     background-color: rgb(6, 7, 7);
+    width: 100%;
 }
 
 /* ####################  NAV BAR  ####################### */
@@ -102,11 +103,11 @@ div.container{
 div.container h4{
     text-transform: uppercase;
     font-size: 50px;
-    color: rgb(231, 231, 231);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
 div.trans{
-    background-color: lightslategray;
+    background-color: azure;
     margin: auto;
     opacity: 0.6;
 }
@@ -137,3 +138,18 @@ footer{
     display: inline-block;
     line-height: 1em;
   }
+
+/*###########################################################*/
+
+#cont{
+
+    background-image: url(cod.jpeg);
+    width: 100%;
+    height: 800px;
+    /* padding: 20px 20px 20px 20px; */
+    
+
+}
+.g{
+    margin-left: 300px;
+}
